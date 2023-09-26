@@ -1,0 +1,17 @@
+{
+  "name": "projet4_cv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w scss:css"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "node-sass": "^9.0.0",
+    "node-scss": "^7.0.3",
+    "sass": "^1.68.0"
+  }
+}
